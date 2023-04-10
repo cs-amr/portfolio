@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  scroll-behavior: smooth;
+}
+.container {
+  width: min(1024px, 100%);
+  padding-inline: 40px;
+  margin-inline: auto;
+}
+* {
+  /* outline: 1px solid green; */
+}
