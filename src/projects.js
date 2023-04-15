@@ -16,7 +16,7 @@ export const projects = [
 
 },{
     title:"Audiophile website",
-    description:"The website is an online store that sells handmade jewelry and  accessories. Users can browse through different categories of products, add items to their cart, and fill checkout information",
+    description:"The website is an online store that sells Headphones, Speakers  and Earphones. Users can browse through different categories of products, add items to their cart, and fill checkout information",
     github:"https://github.com/cs-amr/audiophile-ecommerce",
     live:"https://audiophile-ecommerce-two.vercel.app/",
     skills:["React","CSS"],
