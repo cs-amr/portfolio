@@ -12,7 +12,7 @@ export const projects = [
     github:"https://github.com/cs-amr/keep",
     live:"https://keep-one.vercel.app/",
     skills:["React","Tailwind"],
-    img:'/public/assets/Keep.png'
+    img:"/assets/keee.png"
 
 },{
     title:"Audiophile website",

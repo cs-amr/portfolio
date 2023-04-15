@@ -4,7 +4,7 @@ export default function Project({ project }) {
       <div className="max-w-[490px] max-h-[360px] overflow-hidden rounded-md shadow-lg">
         <a target="_blank" href={project.live}>
           <img
-            className="block min-w-full object-cover "
+            className="block h-full min-w-full object-cover "
             src={project.img}
             alt=""
           />
