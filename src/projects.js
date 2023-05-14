@@ -1,4 +1,12 @@
 export const projects = [
+    {
+    title:"Chat App",
+    description:"The website allows users to search for chat with other users",
+    github:"https://github.com/cs-amr/chat-app",
+    live:"https://chat-app-cs-amr.vercel.app/",
+    skills:["React","Tailwind"],
+    img:"/assets/chat-app.png"
+},
 {
     title:"Movies Website",
     description:"The website allows users to search for movies, tv Shows and actors, displays trending shows and popular actors",
